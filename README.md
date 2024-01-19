@@ -1,12 +1,13 @@
 <h1>Hi, I'm Avery! <br/><a href="https://www.linkedin.com/in/averymathis/">IT Professional</a>, <a href="https://github.com/AveryCyberProjects">Cybersecurity Student</a>
 
-<h2>Certifications📜</h2>
-<b>CompTIA Security+</b> ✅ <a href="https://www.credly.com/badges/398fb324-0119-4094-bbee-26f9aefbb7fa/linked_in?t=s6e8tf">Verify</a>
+
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>PowerShell</b>
   - [Active Directory Bulk User Creation w/Powershell Script](https://github.com/AveryCyberProjects/Active-Directory-Bulk-User-Creation-PowerShell)
 
+<h2>📜Certifications</h2>
+<b>CompTIA Security+</b> ✅ <a href="https://www.credly.com/badges/398fb324-0119-4094-bbee-26f9aefbb7fa/linked_in?t=s6e8tf">Verify</a>
 
 <h2>📺 YouTube Videos</h2>
 
